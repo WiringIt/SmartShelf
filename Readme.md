@@ -18,5 +18,5 @@
 # Team members:
 ## [Prof. Sujoy Saha (Computer Science and Engineering Department, National Institute of Durgapur)](https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/sujoy-saha-1)
 ## Arko Datta (MTech, National Institute of Durgapur)
-## Samriddha Halder (BTEch, 2nd and 3rd semester)
-## Sujoy Basak (BTEch, 3rd semester)
+## Samriddha Halder (BTech, 2nd and 3rd semester)
+## Sujoy Basak (BTech, 3rd semester)
