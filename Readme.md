@@ -15,7 +15,7 @@
 ## We've collected 20 sets of data on a 28 * 28 metal plate grid to analyse the mathematical correlations and deriving patterns by generating graphs of amplitude vs frequency.
 ## Using this data we aimed to use tinyML on Raspberry Pi Pico W to provide a cheap and accurate solution to the consumer-service related problems of retail stores.
 # Team members:
-## Prof. Sujoy Saha (Computer Science and Engineering Department, National Institute of Durgapur)
+## [Prof. Sujoy Saha (Computer Science and Engineering Department, National Institute of Durgapur)](https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/sujoy-saha-1)
 ## Arko Datta (MTech, National Institute of Durgapur)
 ## Samriddha Halder (BTEch, 2nd and 3rd semester)
 ## Sujoy Basak (BTEch, 3rd semester)
